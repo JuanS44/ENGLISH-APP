@@ -7,8 +7,8 @@ Soporte para Imagen Oficial: utb_logotipo.png
 ===============================================================================
 """
 
-import tkinter as tk
-from tkinter import ttk, messagebox
+#import tkinter as tk
+#from tkinter import ttk, messagebox
 import random
 import os
 from PIL import Image, ImageTk  # Carga y escalado de imágenes
